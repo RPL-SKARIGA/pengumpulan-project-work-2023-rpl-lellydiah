@@ -1,0 +1,14 @@
+body{
+    background-color: #fcd8d8;
+    font-family: 'Poppins' , sans-serif;
+    font-size: 14px;
+    color: #070606 ;
+}
+.form-control{
+    width: 350px;
+}
+
+          .small-img {
+        width: 200px; 
+        height: 200px;
+    }
